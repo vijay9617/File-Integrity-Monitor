@@ -113,14 +113,18 @@ FILE INTEGRITY ALERT
 [ADDED]
   - new.txt
 ```
-Security Concept
+## Security Concept
+
 File Integrity Monitoring helps identify unauthorized changes to important files by comparing their current cryptographic hashes against a previously trusted baseline.
-Future Improvements
-Timestamped security logs
-Alert deduplication
-Email notifications
-Secure baseline storage
-Process and user information
-Web dashboard
-Author
-Vijay
+
+## Future Improvements
+
+- Timestamped security logs
+- Alert deduplication
+- Email notifications
+- Secure baseline storage
+- Process and user information
+- Web dashboard
+## Author
+
+Vijay B
